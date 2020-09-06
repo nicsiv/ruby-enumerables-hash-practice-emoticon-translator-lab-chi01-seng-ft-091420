@@ -27,5 +27,5 @@ def get_japanese_emoticon(data, emoticon)
       return value[:japanese]
   end
 end
-return "sorry, that emoticon was not found"
+return "Sorry, that emoticon was not found"
 end
